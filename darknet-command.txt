@@ -1,0 +1,1 @@
+./darknet detector test /home/nihar/Desktop/alexeyAB/darknet/build/darknet/x64/data/obj.data /home/nihar/Desktop/alexeyAB/darknet/build/darknet/x64/cfg/yolo-obj.cfg /home/nihar/Desktop/alexeyAB/darknet/backup/yolo-obj_last.weights /home/nihar/Desktop/Test Darknet/darknet/SoilProbe.png
